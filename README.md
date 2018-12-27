@@ -10,7 +10,7 @@ N26 CSV file
  
 Place CSV file in same folder as n26csv2qif_v1.py and run the following command:
 ```
-pyhton n26csv2qif_v1.py inputfile.csv
+python n26csv2qif_v1.py inputfile.csv
 ```
 
 # note
