@@ -8,7 +8,7 @@ N26 CSV file
   
 # Instuction
  
-Place CSV file in same folder as n26csv2qif.py and run the following command:
+Place CSV file in same folder as n26csv2qif_v1.py and run the following command:
 ```
 pyhton n26csv2qif_v1.py inputfile.csv
 ```
