@@ -67,7 +67,7 @@ class Transaction(object):
         a transaction always with an !Account section, a single QIF file can contain
         transactions for multiple accounts.'''
         s =  ["!Account"]
-        s += ["N" + self.account]
+        s += ["Nn26"]
         s += ["TBank"]
         s += ["^"]
         s += ["!Type:Bank"]
